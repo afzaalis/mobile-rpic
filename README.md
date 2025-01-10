@@ -6,7 +6,7 @@ Aplikasi ini dibangun menggunakan:
 - **Frontend**: Flutter  
 - **Backend**: Express.js, PHP Native  
 - **Database**: MySQL  
-
+- **Default Emulator** : Android Google Pixel 8
 ## Proses Bisnis  
 [Dokumen Proses Bisnis](https://docs.google.com/document/d/1YLE1TthRlbKCURHzKLMr836mLhiX6AVS1KaDypxz8B8/edit?tab=t.0)  
 
